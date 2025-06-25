@@ -6,11 +6,11 @@
 
 ### Aufteilung
 
-Jeder kreiert ein Netzwerkdatensatz für ein entsprechendes Thema
-Jonah:  Greographic
-Jonas:  Political
-Lenny:  Trade and Economic
-Samuel: Cultural
+- Jeder kreiert ein Netzwerkdatensatz für ein entsprechendes Thema
+- Jonah:  Greographic
+- Jonas:  Political
+- Lenny:  Trade and Economic
+- Samuel: Cultural
 
 ## Idee
 
