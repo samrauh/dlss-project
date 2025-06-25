@@ -8,7 +8,7 @@
 
 Jeder kreiert ein Netzwerkdatensatz für ein entsprechendes Thema
 Jonah:  Greographic
-Jonas:  Politik
+Jonas:  Political
 Lenny:  Trade and Economic
 Samuel: Cultural
 
