@@ -17,3 +17,6 @@
 - Kreieren von unterschiedlichen Netzwerken: Trade, Kultur, Geographie
 - Separates trainieren von GNN (evt. GATConv GNN siehe: [link](https://medium.com/stanford-cs224w/incorporating-edge-features-into-graph-neural-networks-for-country-gdp-predictions-1d4dea68337d)
 - Zusammenführen von GNN's mit Fully-Connected-Layers
+
+
+
