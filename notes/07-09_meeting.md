@@ -9,15 +9,9 @@
         - In this case the model could reference previous gini values of the same country.
             - Depending on the use-case this could be "okay"
 
-
-
-
-
 ### Konkrete Fragen
 
 - How do we split our data into train-test-split?
 - What time frame should we use?
 - Sanity check?
     - One graph for each year
-
-    
